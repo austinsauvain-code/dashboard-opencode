@@ -1,0 +1,9 @@
+output/*.html
+output/*.json
+input/*.zip
+input/*.csv
+input/unzipped/
+input/**/*.csv
+__pycache__/
+*.pyc
+.DS_Store
