@@ -7,3 +7,6 @@ input/**/*.csv
 __pycache__/
 *.pyc
 .DS_Store
+
+**/.env
+telegram-bot/.env
